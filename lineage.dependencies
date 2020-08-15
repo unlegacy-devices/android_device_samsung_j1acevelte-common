@@ -1,16 +1,16 @@
 [
   {
-    "repository": "djeman/android_kernel_samsung_sharkls",
+    "repository": "sieyron/android_kernel_samsung_sharkls",
     "target_path": "kernel/samsung/sharkls",
     "revision": "cm-14.1"
   },
   {
-    "repository": "djeman/android_vendor_samsung_common",
+    "repository": "sieyron/android_vendor_samsung_common",
     "target_path": "vendor/samsung/common",
     "revision": "cm-14.1"
   },
   {
-    "repository": "djeman/android_vendor_sprd",
+    "repository": "sieyron/android_vendor_sprd",
     "target_path": "vendor/sprd",
     "revision": "cm-14.1"
   },

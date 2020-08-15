@@ -173,8 +173,8 @@ PRODUCT_PACKAGES += \
     init.board.rc \
     init.recovery.board.rc \
     init.cali.rc \
-    init.j3xnlte.rc \
-    init.j3xnlte_base.rc \
+    init.j1acevelte.rc \
+    init.j1acevelte_base.rc \
     init.sc8830.rc \
     init.sc8830.usb.rc \
     init.sc8830_ss.rc \
